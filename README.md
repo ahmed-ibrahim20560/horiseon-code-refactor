@@ -3,4 +3,6 @@
 
 - I consolidated the classes, added alt text to images and used semantic Html. The code now has the minimum amount of CSS whilst still keeping the same appearance and only semantic Html was used. 
 
-- 
+- https://github.com/ahmed-ibrahim20560/horiseon-code-refactor 
+
+-https://ahmed-ibrahim20560.github.io/horiseon-code-refactor/
